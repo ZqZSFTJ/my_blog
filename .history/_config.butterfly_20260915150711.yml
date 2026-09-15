@@ -69,13 +69,13 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: /image/background.jpg
+index_img:
 
 # The banner image of archive page
 archive_img:
 
 # Note: tag page, not tags page
-tag_img: 
+tag_img: source/image/background.jpg
 
 # The banner image of tag page, you can set the banner image for each tag
 # Format:
